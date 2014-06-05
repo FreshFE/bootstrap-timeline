@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-timeline",
+  "version": "0.1.0",
+  "authors": [
+    "MinoWu <minowu@foxmail.com>"
+  ],
+  "description": "bootstrap timeline",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass-twbs": "~3.*.*",
+    "mino-bootstrap-grid-gap": "~0.*.*"
+  }
+}
